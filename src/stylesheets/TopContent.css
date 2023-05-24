@@ -1,0 +1,18 @@
+.header-image {
+    max-width: 75vw;
+  }
+
+  header {
+    padding: 52px 12vw 32px 12vw;
+    margin: auto;
+    text-align: center;
+  }
+  
+  header > h1 {
+    text-align: left;
+  }
+  
+  header > p {
+    text-align: left;
+    max-width: 60vw;
+  }
